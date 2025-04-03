@@ -1,9 +1,7 @@
-# README.md
-
 # CRF-INDO
 
 ## Project Overview
-CRF-INDO is a Python application designed to [briefly describe the purpose of the project]. 
+CRF-INDO is a Python application 
 
 ## Installation
 To install the required dependencies, run the following command:
@@ -28,9 +26,6 @@ pytest tests/
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the [Your License Here].
 
 ## Crear DockerFile
 ## Crear requirements.txt
